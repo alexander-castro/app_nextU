@@ -1,1 +1,2 @@
-# app_nextU
+# App NextU
+- Support Amazon devices
